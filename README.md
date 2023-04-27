@@ -1,2 +1,2 @@
 # Aruko
-The aruko project allows the user to create virtual reality in real time using Python and a QR code.
+The aruko project allows the user to create augmented reality in real time using Python and a QR code.
